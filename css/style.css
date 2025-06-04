@@ -450,12 +450,12 @@ footer div.bottom ul li {
         margin-bottom: 50px;
     }
     #sportlight h1 {
-        font-size: 36px; 
+        font-size: 38px; 
         line-height: 40px;
     }
     #sportlight p {
     text-align: center;
-    font-size: 14px; 
+    font-size: 18px; 
     line-height: 30px; 
     color: #8C8D8BFF; 
     margin-bottom: 20px;
@@ -591,13 +591,12 @@ footer div.bottom ul li {
         padding: 0px 80px;
     }
     #trusted h1 {
-        font-size: 24px; 
-        line-height: 20px; 
-        margin-bottom: 20px;
+        font-size: 26px; 
+        line-height: 30px; 
     }
     #trusted ul {
         margin-top: 40px;
-        gap: 30px;
+        gap: 20px;
     }
     footer {
         margin-top: 50px;
@@ -609,7 +608,7 @@ footer div.bottom ul li {
 }
     footer h5 {
         margin-top: 16px;
-        margin-bottom: 20px;
+        margin-bottom: 15px;
     }
     footer div.bottom label {
         font-size: 12px; 
