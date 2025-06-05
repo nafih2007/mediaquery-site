@@ -424,7 +424,7 @@ footer div.bottom ul {
 footer div.bottom ul li {
     margin-right: 10px;
 } 
-@media all and (max-width: 768px) {
+@media all and (max-width: 769px) {
     header section.wrapper {
         width: 98%;
         justify-content: space-between;
