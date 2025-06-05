@@ -718,7 +718,7 @@ footer div.bottom ul li {
         margin-bottom: 25px;
     }
     #popular ul {
-        grid-template-columns: 225px 225px;
+        grid-template-columns: 1fr 1fr;
         gap: 10px;
         text-align: center;
     }
