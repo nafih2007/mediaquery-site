@@ -424,7 +424,7 @@ footer div.bottom ul {
 footer div.bottom ul li {
     margin-right: 10px;
 } 
-@media all and (max-width: 769px) {
+@media all and (max-width: 768px) {
     header section.wrapper {
         width: 98%;
         justify-content: space-between;
@@ -709,7 +709,7 @@ footer div.bottom ul li {
         margin-bottom: 5px;
     }
     #popular {
-        padding: 25px;
+        padding: 30px;
     }
     #popular h1{
         text-align: center;
@@ -718,7 +718,7 @@ footer div.bottom ul li {
         margin-bottom: 25px;
     }
     #popular ul {
-        grid-template-columns: 1fr 1fr 1fr;
+        grid-template-columns: 225px 225px;
         gap: 10px;
         text-align: center;
     }
