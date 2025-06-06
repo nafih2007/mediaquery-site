@@ -679,15 +679,17 @@ footer div.bottom ul li {
     #explor {
     
         margin-top: 45px;
-        padding: 30px;
+        padding: 12git0px;
+        padding-top: 0;
+        padding-bottom: 0;
     }
     #explor h1{
         font-size: 18px;
         margin-bottom: 20px;
     }
     #explor ul {
-        grid-template-columns: 1fr 1fr ;
-        gap: 10px;
+        grid-template-columns: 1fr ;
+        gap: 20px;
         margin-bottom: 20px;
     }
     #explor ul li {
@@ -718,8 +720,8 @@ footer div.bottom ul li {
         margin-bottom: 25px;
     }
     #popular ul {
-        grid-template-columns: 1fr 1fr;
-        gap: 20px;
+        grid-template-columns: 300px;
+        gap: 10px;
         text-align: center;
     }
     #popular ul li {
@@ -749,13 +751,15 @@ footer div.bottom ul li {
     #rateing {
         margin-top: 30px;
         margin-bottom: 15px;
+        margin: 100px;
     }
     #rateing h1 {
         font-size: 18px; 
         margin-bottom: 25px;
     }
     #rateing ul{
-        gap: 10px;
+        gap: 20px;
+        grid-template-columns: 1fr;
         padding: 0px 25px;
     }
     #rateing ul li {
